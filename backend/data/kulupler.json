@@ -1,0 +1,668 @@
+[
+ {
+  "ad": "Adli Bilişim Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Türker TUNCER, Başkan: Ömer ESEN",
+  "basvuru_linki": "https://www.instagram.com/adlibilisimfu/"
+ },
+ {
+  "ad": "XtremeLab.co Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr Üyesi V. Cem BAYDOĞAN, Başkan: Muhammet Emre Dere",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Ekoloji Öncüleri Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Işıl ŞAHİN GÜLTER, Başkan: Taha Kaplan",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Kimya Mühendisliği Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç Dr. Şeyda Taşer, Başkan: Ahmed Bozan",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bilim ve Fen Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr.Gonca KEÇECİ, Başkan: Nurten AKDEMİR",
+  "basvuru_linki": "https://www.instagram.com/fubilimvefentoplulugu/"
+ },
+ {
+  "ad": "Google Developer Students Club Fırat University",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Mehmet KARAKÖSE, Başkan: Nurgül Bedir",
+  "basvuru_linki": "https://instagram.com/gdscelazig?utm_medium=copy_link"
+ },
+ {
+  "ad": "Geliştirici, İnovasyon ve Teknoloji",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Güngör Yıldırım, Başkan: Bedirhan Şakalar",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat Elektronik ve Bilişim Teknolojileri Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Özal YILDIRIM, Başkan: Yasin Muaz YÜKSEL",
+  "basvuru_linki": "https://www.instagram.com/febitekk"
+ },
+ {
+  "ad": "Mimar ve Mühendisler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. İbrahim TÜRKOĞLU, Başkan: Mert KORKMAZ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Veterinerlik Bilimsel Araştırma Yayın Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Kazım ŞAHİN, Başkan: Berat Deniz GÜLDİKEN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "International Veterinary Students Association Öğrenci Topluluğu ( IVSA)",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Pınar TATLI SEVEN, Başkan: Mustafa Şahin ŞAHİN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Teknoloji Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Orhan ÇAKAR, Başkan: Ali ERTAŞ",
+  "basvuru_linki": "https://www.instagram.com/futek23"
+ },
+ {
+  "ad": "Havacılık ve Uzay Teknolojileri Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Ukbe Üsame UÇAR, Başkan: Halil Tuğrul ÇALI",
+  "basvuru_linki": "https://instagram.com/fuhavacilikuzay"
+ },
+ {
+  "ad": "Savunma Teknolojileri ve Nitelikli Mühendisler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Üyesi. Burak Tanyeri, Başkan: İdris Kağan DEMİR",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Institute of Engineers and Everbody Else Öğrenci Topluluğu (IEEE)",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Turgay KAYA, Başkan: Fatma OT",
+  "basvuru_linki": "https://www.instagram.com/ieeefiratsb/?hl=tr"
+ },
+ {
+  "ad": "Moleküler Biyoloji ve Genetik Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Eyüp BAĞCI, Başkan: Ceren GÜNEŞ",
+  "basvuru_linki": "https://www.instagram.com/fugenetik/"
+ },
+ {
+  "ad": "Makine Mühendisliği Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Nevin ÇELİK, Başkan: Eren ALTINIŞIK",
+  "basvuru_linki": "https://instagram.com/fumm23"
+ },
+ {
+  "ad": "Erasmus Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Murat KATAR, Başkan: Bilgesu BARIŞ",
+  "basvuru_linki": "https://www.instagram.com/erasmusfirat"
+ },
+ {
+  "ad": "Bilişim ve Yazılım Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Mustafa Eriş, Başkan: Abdullah Beren SÖNMEZ",
+  "basvuru_linki": "https://www.instagram.com/bytfirat?igsh=Zjh3ZXBjOXVoNXBi"
+ },
+ {
+  "ad": "İnşaat Mühendisliği Öğrenci Topluluğu (FİMÜ)",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Mustafa TUNÇ, Başkan: Elif Nİsa AYDIN",
+  "basvuru_linki": "https://www.instagram.com/fimu.23"
+ },
+ {
+  "ad": "Veteriner Öğrenci Topluluğu (FıratÜniVet)",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Gör. Ülkü Gülcihan ŞİMŞEK, Başkan: Muhammed Faruk BANKUR",
+  "basvuru_linki": "https://instagram.com/firatunivet"
+ },
+ {
+  "ad": "ACM Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Mehmet KARAKÖSE, Başkan: Yusuf AÇIK",
+  "basvuru_linki": "https://instagram.com/firatacm"
+ },
+ {
+  "ad": "Siberay Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğrt. Üyesi İlhan Fırat Kılınçer, Başkan: Gülsüm Duygu KARATAŞ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Siber Güvenlik Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Erhan AKBAL, Başkan: Onur ÖCAL",
+  "basvuru_linki": "https://www.instagram.com/fusgt"
+ },
+ {
+  "ad": "Yapay Zeka Görüntü İşleme ve İnovasyon Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Mustafa ULAŞ, Başkan: Adile Beyza YILMAZ",
+  "basvuru_linki": "https://www.instagram.com/fuyzgii"
+ },
+ {
+  "ad": "Fırat Üniversitesi Kalite Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Semih DİKMEN, Başkan: Elif TURAN",
+  "basvuru_linki": "https://www.instagram.com/kalitefirat"
+ },
+ {
+  "ad": "Huawei Geliştirici Öğrenciler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Fatih ÖZYURT, Başkan: Ahmet Furkan KARAKURT",
+  "basvuru_linki": "http://www.instagram.com/hsdfirat"
+ },
+ {
+  "ad": "Analitik Düşünce Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Ebru KÜKEY, Başkan: Sefa GÜNAY",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat Blockchain Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. İbrahim TÜRKOĞLU, Başkan: Eren Musa TOPÇU",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bilişim ve Eğitim Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Muhammet BAYKARA, Başkan: Güler Şener",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Matematik ve Teknoloji Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Hatice ASLAN, Başkan: Nur Seza ALTINIŞIK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "6 Lego Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Zülfü GENÇ, Başkan: Ebru BAYKAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Mikro Mühendisler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Kıvanç DOĞAN, Başkan: Berke SEVİNÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Veri Bilimi ve İstatistik Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Mine DOĞAN, Başkan: Erol İLHAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bilim ve Kimya Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç Dr. Mustafa Ersin PEKDEMİR, Başkan: Burak DOĞAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bulut Bilişim ve Büyük Veri Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Mehmet ARZU, Başkan: Fatih İRGÖREN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat Üniversitesi Yönetim ve Bilişim Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Ethem Sefa KÜÇÜKYILMAZ, Başkan: Erhan ARPACI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Yeniler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Öğr. Gr. Yusuf Ziya ÖLÇÜCÜ, Başkan: Yasin KILIÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "TEKNOFEST Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Ferhat UÇAR, Başkan: Fehmi Enes ERÇEL",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "İnsansız Araçlar Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Şule KAYA, Başkan: Onur Can SARI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fizik ve Bilim Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Oğuzhan ORHAN, Başkan: Elif ASLAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Jeoloji Mühendisliği Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Mehmet KÖKÜM, Başkan: Ismaıl MARI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "FUTURE Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Ferhat UÇAR, Başkan: İbrahim Kerem GÜVEN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "El Cezeri Teknoloji Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Mahmut KAYA, Başkan: Mehmet Veysel BİNGÖL",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat Üniversitesi Sürdürülebilir İnovasyon ve Ortak Network Öğrenci Topluluğu (FUSION)",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Cem BAYDOĞAN, Başkan: Hayat AY",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bilişim Teknolojileri Araştırma ve Geliştirme Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Semih DİKMEN, Başkan: Hüseyin SARIKAYA",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "VERİM Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Prof. Dr. Gökhan GÖKDERE, Başkan: Rumeysa ORHAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Yapı ve Proje Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Arş. Gör. Zeynep Nur DUMAN, Başkan: Nursebil Vuslat SAĞLIYAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Otomotiv ve Teknoloji Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Doç. Dr. Müjdat FIRAT, Başkan: Koray Deniz KAPLAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Model Birleşmiş Milletler Öğrenci Topluluğu",
+  "kategori": "Bilimsel",
+  "aciklama": "Danışman: Öğr. Gör. Ezgi Derya TERTEMİZ, Başkan: Huzeyfe Emre DENİZ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat İlim Kültür ve İrfan Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Doç. Dr. Ramazan Fazıl Akkoç, Başkan: Muhammed Şükrü KILIÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sürdürülebilir Dünya Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Prof. Dr. Kenan Demirci, Başkan: Derya KOÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fotoğrafçılık Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör. Recep BAĞCI, Başkan: Mehmet Salih AKNAR",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Medya İletişim Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üy. Feridun NİZAM, Başkan: Esra KARADAĞ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Müzik Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üy. Tolgahan BAY, Başkan: Miraç Emir ESER",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Radyo Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üy. Mustafa DEMİR, Başkan: Tuğba YILDIZ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sinema Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Yunus NAMAZ, Başkan: Ronay KÖSE",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Yabancı Dil Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör. Yavuzcan DERE, Başkan: Endam Adar ŞEŞEROĞULLARI",
+  "basvuru_linki": "https://www.instagram.com/fuyabancidiltoplulugu"
+ },
+ {
+  "ad": "Tiyatro Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üy. Bilgit SAĞLAM, Başkan: Hasan Basri DERELİ",
+  "basvuru_linki": "https://www.instagram.com/F.u.t.t/"
+ },
+ {
+  "ad": "Türk Dünyası ve İletişim Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör.Recep BAĞCI, Başkan: Tural HATAMLI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Daru'l-Hadis (Hadis Evi) Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Doç. Dr. Ekrem YÜCEL, Başkan: Aziz Mahmut GENÇ",
+  "basvuru_linki": "https://instagram.com/darulhadis_tr"
+ },
+ {
+  "ad": "İngiliz Dili ve Edebiyatı Araştırmaları Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Arş. Gör. G. Tuğçe ÇETİN, Başkan: Murat İPEK",
+  "basvuru_linki": "https://www.instagram.com/fuideall"
+ },
+ {
+  "ad": "Sınıf Eğitimi Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Arş. Gör. Ebuzer DUYU, Başkan: Cansu AKTAŞ",
+  "basvuru_linki": "https://www.instagram.com/sinifegitimitoplulugu"
+ },
+ {
+  "ad": "Gastronomi Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör. Olcay ERTUĞRUL, Başkan: Yunus Emre KAYA",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Suffa Proje Akademi Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Rahime ÇELİK, Başkan: Nisa Nur ŞEKER",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Düşünce Akademisi Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Doç. Dr. Yunus NAMAZ, Başkan: Cumali YILDIRIM",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Halkla İlişkiler ve Tanıtım Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Tuba ALTUNBEY, Başkan: Tuanna DEMİR",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Kürsübaşı ve Çaydaçıra Halk Oyunları Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Doç. Dr. Fatih Mehmet UĞURLU, Başkan: Fatma Gizem KUTLUSAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Dezerformasyonla Mücadele Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Doç. Dr. Feridun NİZAM, Başkan: Muhammed Yadin YILMAZ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "English Language Teaching Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Arş. Gör. Özge KIRMIZIBAYRAK, Başkan: İbrahim Hamdi AKÇADAĞ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Görsel İletişim Atölyesi Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Dr. Öğr. Ü. C. Sinan Altundağ, Başkan: Ahmet MARKAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "1 Kare 1 Hikaye Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör. Dr. Şükrü KARAASLAN, Başkan: Elanur KAYA",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Fırat Üniversitesi Latin Dans Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Öğr. Gör. Ezgi AKMENÇE, Başkan: Rana LALIK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Alman Dili ve Edebitatı Öğrenci Topluluğu",
+  "kategori": "Kültürel",
+  "aciklama": "Danışman: Arş. Gör. Fatma Nur GÜN, Başkan: Musa Aslan",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Damla Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Üy. Handan KARAKAYA, Başkan: Muhammet KARABULUT",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Coğrafya Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Muzaffer Siler, Başkan: Veysel ERTOKSOY",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Çalışma Ekonomisi ve Endistri İlişkileri Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Hasan UZUN, Başkan: Tuana ŞEN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Toplum Gönüllüleri Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Mevlüt YILMAZ, Başkan: Hasan Hüseyin DEMİRKOL",
+  "basvuru_linki": "https://instagram.com/firattog"
+ },
+ {
+  "ad": "Toplumsal Gelişim Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Osman Mermi, Başkan: Berat Can ÇELİK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Üniversite Gençlik İnisiyatifi Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Ayhan Orhan, Başkan: Veysel Erdem",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Engelsiz Fırat Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Burcu GEZER ŞEN, Başkan: Zehra ARKIN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bilinç ve Gelişim Akademisi",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Erdal ZENGİN, Başkan: Esra Yerlikaya",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Neşeli Adımlar Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş. Gör. Muhammed Emre BOZ, Başkan: Yahya ALDEMİR",
+  "basvuru_linki": "http://www.instagram.com/firatokuloncesi"
+ },
+ {
+  "ad": "Genç Gönüller Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Mehmet Erbil Özcan, Başkan: Zeynep Sude Akyol",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Genç TEMA Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Eyüp BAĞCI, Başkan: Arda MERT",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "İyiliğin Geleceği Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Yeliz POLAT, Başkan: Filiz KOCAR",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Kamu Gözetimi ve Ombudsmanlık Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç.Dr. İsmail KAVAZ, Başkan: Tuana Naz UZUN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Edebiyat Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş. Gr. Sevda Çilem AYAR VARGÜN, Başkan: Belinay KURNAZ",
+  "basvuru_linki": "https://instagram.com/edebiyat_firat"
+ },
+ {
+  "ad": "Hayvanları Koruma Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Rahşan ÖZEN, Başkan: Sabri Arda AKGÜN",
+  "basvuru_linki": "https://www.instagram.com/firat.hay.kor/"
+ },
+ {
+  "ad": "Uluslararası Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş. Gör. Dr. Metin YILMAZ, Başkan: Husnulmaab RAHMANİ",
+  "basvuru_linki": "https://www.instagram.com/isc_fu/"
+ },
+ {
+  "ad": "Sosyal Hizmet Etkileşim Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Ümran CİHAN DÜNDAR, Başkan: Fatma Müberra ASLAN",
+  "basvuru_linki": "https://www.instagram.com/sosyalhizmetkulubu23"
+ },
+ {
+  "ad": "Tarih Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Ü. Cuma Ali YILMAZ, Başkan:",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Akil Gençler Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Kenan PEKER, Başkan: Hasan ÖZÇELİK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sosyal Bilgiler Etkin Vatandaşlar Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş.Gör. M. Kürsat ÖKSÜZOĞLU, Başkan: Muhammed Süleymen TEKİN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sosyal Bilimlerde Teknoloji ve Araştırma Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Ali Sırrı YILMAZ, Başkan: Ayşegül DİK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Vetakort Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. Ahmet ATEŞŞAHİN, Başkan: Barış FISTIKÇI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Türk Dünyası Araştırmaları Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Prof. Dr. İbrahim YILMAZÇELİK, Başkan: Hüseyin ERDOĞAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Kadın ve Demokrasi Gençlik Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç.Dr. Yeliz POLAT, Başkan: Zeynep ERENER",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Psikoloji ve İnsan Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Nusrullah OKAN, Başkan: Yusuf UVUT",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Genç Bakış Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Öğr. Üyesi Hasan YETİŞ, Başkan: Elif ERGEN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sanat Tarihi Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Korkmaz ŞEN, Başkan: Zeynep ŞANLI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Atçılık ve Binicilik Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş. Gör. Dr. M. Sedef DOĞRU, Başkan: Sümeyye Sözügüzel",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Bi Dünya Oyuncak Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Öğr. Üyesi Ahmet KÖSTEKÇİ, Başkan: Fırat KAYA",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Güzel Sanatlar Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Öğrt. Gr. Rüçhan KEÇECİ, Başkan: Merve FIRAT",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "NEFHA Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Zeynep ALİMOĞLU SÜRMELİ, Başkan: Seval TAN",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "İşletme ve İnovasyon Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Nurdan YÜCEL, Başkan: Sözdar ÇELİK",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Rehber Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Dr. Arş. Gr. Cemal URAL, Başkan: Ahmet ERKILIÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Satranç Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Tüncay ATEŞŞAHİN, Başkan: İsmail Mete KARASUBAŞI",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Sahne Düşleri Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Arş. Gör. Tolgahan BAY, Başkan: Ahmet Nedim EMRE",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Milli Gençlik Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Mehmet ÖZTÜRK, Başkan: İbrahim Halil TUNÇ",
+  "basvuru_linki": null
+ },
+ {
+  "ad": "Asr-ı Emare Öğrenci Topluluğu",
+  "kategori": "Sosyal",
+  "aciklama": "Danışman: Doç. Dr. Muhammet FIRAT, Başkan: İbrahim Halil TUNÇ",
+  "basvuru_linki": null
+ }
+]

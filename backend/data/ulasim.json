@@ -1,0 +1,9 @@
+﻿[
+  {"yurt": "Ahmet Kabaklı KYK Erkek Öğrenci Yurdu", "durak": "6 Numaralı Durak", "hat": "7 Numaralı Otobüs", "aktarma": "Yok", "sure_dk": 10},
+  {"yurt": "Elazığ Fırat KYK Erkek Öğrenci Yurdu", "durak": "8 Numaralı Durak", "hat": "1", "aktarma": "Yok", "sure_dk": 11},
+  {"yurt": "Ömer Bilginoğlu KYK Erkek Öğrenci Yurdu", "durak": "8 Numaralı Durak", "hat": "1 ve 63", "aktarma": "Yok", "sure_dk": 11},
+  {"yurt": "Fethi Sekin KYK Kız Öğrenci Yurdu", "durak": "Yurt Önü", "hat": "60", "aktarma": "Yok", "sure_dk": 12},
+  {"yurt": "Harput KYK Kız Öğrenci Yurdu", "durak": "Yurt Önü", "hat": "5", "aktarma": "Yok", "sure_dk": 8},
+  {"yurt": "İzzetpaşa KYK Kız Öğrenci Yurdu", "durak": "Yurt Önü", "hat": "9", "aktarma": "Yok", "sure_dk": 20},
+  {"yurt": "Sare Ana KYK Kız Öğrenci Yurdu", "durak": "Yurt Önü", "hat": "5", "aktarma": "Yok", "sure_dk": 8}
+]
